@@ -8,4 +8,4 @@ PHP 5.6.7 for WinGinX
 
     git clone https://github.com/z2z/winginx_php56.git php52
 
-Note: Winginx will report version as 5.5.67 
+Note: Winginx will report version as 5.2.67 
