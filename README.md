@@ -1,6 +1,6 @@
 # winginx_php56
 
-PHP 5.6.7 for WinGinX 
+PHP 5.6.16 for WinGinX 
 (Winginx is awesome but unfortunately author has not updated plugins/modules.)
 
 
@@ -8,4 +8,4 @@ PHP 5.6.7 for WinGinX
 
     git clone https://github.com/z2z/winginx_php56.git php52
 
-Note: Winginx will report version as 5.2.67 
+Note: Winginx will report version as 5.2.16

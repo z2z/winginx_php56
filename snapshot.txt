@@ -1,9 +1,9 @@
 This snapshot was automatically generated on
-Thu, 19 Mar 2015 22:30:11 +0000
+Thu, 26 Nov 2015 03:17:03 +0000
 
-Version: 5.6.7
+Version: 5.6.16
 Branch: HEAD
-Build: C:\php-sdk\php56\vc11\x86\obj\Release
+Build: C:\php-sdk\php56\vc11\x86\obj\Release_TS
 
 Built-in Extensions
 ===========================
@@ -42,6 +42,10 @@ mhash
 
 
 Dependency information:
+Module: php5apache2_4.dll
+===========================
+	msvcr110.dll
+
 Module: php-cgi.exe
 ===========================
 	msvcr110.dll
@@ -72,8 +76,8 @@ Module: php_com_dotnet.dll
 
 Module: php_curl.dll
 ===========================
-	libssh2.dll
 	libeay32.dll
+	libssh2.dll
 	ssleay32.dll
 	normaliz.dll
 	msvcr110.dll
